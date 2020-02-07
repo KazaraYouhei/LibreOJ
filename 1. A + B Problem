@@ -1,0 +1,12 @@
+//输入a 和b，输出 a+b 的结果。
+#include <iostream>
+
+int main()
+{
+    unsigned a = 0;
+    int b = 0,c = 0;
+    std::cin >> a >> b;
+    c = a + b;
+    std::cout << c;
+    return 0;
+}
