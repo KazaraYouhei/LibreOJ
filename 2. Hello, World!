@@ -1,0 +1,8 @@
+//一行 Hello, World!，大小写不限。
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello, World!";
+    return 0;
+}
